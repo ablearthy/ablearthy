@@ -1,7 +1,9 @@
 # 🐒
 ITMO University, SE'26
 
-I'm currently learning [**Scala**](https://www.scala-lang.org/)
+I'm currently interested in FP:
+[**Scala**](https://www.scala-lang.org/)
+and [**Haskell**](https://www.haskell.org/)
 
 
 ## Projects
@@ -18,4 +20,3 @@ I'm currently learning [**Scala**](https://www.scala-lang.org/)
      sbt plugin to automate generating types and functions from `td_api.tl`
    - [td-types](https://github.com/ablearthy/td-types) — generated types and
      functions (separated in order to save compilation time)
-
