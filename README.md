@@ -9,6 +9,8 @@ and [**Haskell**](https://www.haskell.org/)
 ## Projects
 
 1. tdlib for Scala
+   - [tdjson4s](https://github.com/ablearthy/tdjson4s) — interact with
+     Telegram User API in Scala (built on top of `TdJson`) [WIP🚩]
    - [tdjson-bind](https://github.com/ablearthy/tdjson-bind) — JNI for
      [td-json](https://core.telegram.org/tdlib/docs/td__json__client_8h.html)
    - [td-tl-parser](https://github.com/ablearthy/td-tl-parser) — [TL
